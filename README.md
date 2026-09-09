@@ -1,1 +1,3 @@
-# cas598-f26-git-demo
+# Practice repo for Git
+
+This is some text.
